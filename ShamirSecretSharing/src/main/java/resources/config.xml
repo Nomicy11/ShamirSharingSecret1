@@ -1,0 +1,28 @@
+<config>
+    <keys>
+        <n>4</n>
+        <k>3</k>
+    </keys>
+    <points>
+        <point>
+            <x>1</x>
+            <base>10</base>
+            <value>4</value>
+        </point>
+        <point>
+            <x>2</x>
+            <base>2</base>
+            <value>111</value>
+        </point>
+        <point>
+            <x>3</x>
+            <base>10</base>
+            <value>12</value>
+        </point>
+        <point>
+            <x>6</x>
+            <base>4</base>
+            <value>213</value>
+        </point>
+    </points>
+</config>
